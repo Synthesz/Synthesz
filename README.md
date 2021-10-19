@@ -1,6 +1,6 @@
 ### Hi there, I'm Jason - aka [Synthesz][website] 👋
 
-[![Website](https://img.shields.io/website?label=synthesz.carrd.co&style=for-the-badge&url=https%3A%2F%2Fsynthesz.xyz)](http://synthesz.xyz)
+[![Website](https://img.shields.io/website?label=synthesz.xyz&style=for-the-badge&url=https%3A%2F%2Fsynthesz.xyz)](http://synthesz.xyz)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SinisterSynth?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=SinisterSynth)
 
 ## About me!
@@ -15,7 +15,7 @@
 
 ### Socials:
 
-[<img align="left" alt="synthesz.carrd.co" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="synthesz.xyz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Synthesz | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="SinisterSynth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
