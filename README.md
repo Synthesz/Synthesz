@@ -1,6 +1,6 @@
 ### Hi there, I'm Jason - aka [Synthesz][website] 👋
 
-[![Website](https://img.shields.io/website?label=synthesz.carrd.co&style=for-the-badge&url=https%3A%2F%2Fsynthesz.carrd.co)](https://synthesz.carrd.co)
+[![Website](https://img.shields.io/website?label=synthesz.carrd.co&style=for-the-badge&url=https%3A%2F%2Fsynthesz.xyz)](http://synthesz.xyz)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SinisterSynth?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=SinisterSynth)
 
 ## About me!
