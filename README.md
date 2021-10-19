@@ -36,3 +36,6 @@
 [website]: https://synthesz.carrd.co/
 [twitter]: https://twitter.com/SinisterSynth
 [youtube]: https://youtube.com/c/Synthesz
+
+## Projects
+https://startupper.xyz
