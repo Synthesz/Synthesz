@@ -1,15 +1,14 @@
-### Hi there, I'm Jason - aka [Synthesz][website] 👋
+### Hi there, I'm Jason
 
 [![Website](https://img.shields.io/website?label=xjason.tech&style=for-the-badge&url=https%3A%2F%2Fxjason.tech)](https://xjason.tech)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SinisterSynth?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=SinisterSynth)
 
 ## About me!
 
-- 🔭 I'm currently developing an ios app
-- 🌱 Focused into IOS/MACOS Development 
-- I’m looking to bring new tools and assets for iOS and macOS users
+- I want to bring my value to the world through design
 - UI/UX Designer
-- ⚡ Music Composer 
+- Programmer
+- Occasional Music Composer 
 
 ![banner](https://github.com/Synthesz/sinisterbot/blob/main/banner.png?raw=true)
 
@@ -33,9 +32,9 @@
 
 <br />
 
-[website]: https://synthesz.carrd.co/
+[website]: https://xjason.tech/
 [twitter]: https://twitter.com/SinisterSynth
 [youtube]: https://youtube.com/c/Synthesz
 
 ## Projects
-https://startupper.xyz
+None
